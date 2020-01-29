@@ -1,0 +1,6 @@
+EXERCICE 1 :
+
+1) - De la ligne 1 à 12, on vérifie si le $GET['fleur'] est initialisé. Si c'est le cas on donne cette valeur à $fleur, sinon on donne à $fleur la valeur "rose" par défaut.
+
+   - De la ligne 
+
